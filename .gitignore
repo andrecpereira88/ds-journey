@@ -1,0 +1,5 @@
+data/*
+__pychace__/
+.ipynb_checkpoints/
+.env
+
